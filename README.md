@@ -8,12 +8,12 @@ Link for downlading the dataset [IMDB Movie Reviews Dataset](http://ai.stanford.
 
 ## Steps
 
-1- Loading the datset  
+1- Loading the dataset  
 2- Visualizing the most common words in postive and negative reviews  
-3- Creating the Bag of Words(BOW) Model  
+3- Creating the Bag of Words (BOW) Model  
 4- Defining and testing the Naive Bayes Model  
 5- Testing the Logistic Regression model with and without Regularization  
 6- Testing Bigram and Trigram with Logistic Regression  
 7- Testing Logistic Regression with Naive Bayes priors as a bias  
-8- Chossing the best model
+8- Choosing the best model
 
